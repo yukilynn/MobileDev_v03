@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SAP Business One</string>
+    <string name="action_preferences">Preferences</string>
+    <string name="strBizPartner">Business Partner</string>
+    <string name="strName">Aquent Systems</string>
+    <string name="strCoID">C70000</string>
+    <string name="action_search">Search</string>
+    <string name="action_help">Help</string>
+    
+</resources>

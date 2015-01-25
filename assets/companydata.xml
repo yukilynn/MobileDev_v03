@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Company>
+    <companydata>
+        <id>1</id>
+        <doc_series>Primary</doc_series>
+        <bizpart>Aquent Systems</bizpart>
+        <co_id>C70000</co_id>
+        <contact>Troy Brown</contact>
+        <currency>CAN</currency>
+        <sls_emp>Brad Thompson</sls_emp>
+        <remark>Testing</remark>
+    </companydata>
+    <companydata>
+        <id>2</id>
+        <doc_series>Primary2</doc_series>
+        <bizpart>Another System</bizpart>
+        <co_id>C80000</co_id>
+        <contact>Tray Green</contact>
+        <currency>CNY</currency>
+        <sls_emp>Brad Thomyson</sls_emp>
+        <remark>Testing again</remark>
+    </companydata>
+</Company>
